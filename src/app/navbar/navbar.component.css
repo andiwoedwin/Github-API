@@ -1,0 +1,13 @@
+.nav a {
+    display: block;
+    color: beige;
+    text-align: center;
+    font-size: 30px;    
+}
+
+*{box-sizing: border-box;}
+
+.nav{
+    overflow: hidden;
+    background-color: black;
+}
