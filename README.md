@@ -13,6 +13,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
    * view their profiles, number of repositories, number of followers and the number of people they might be following.
    * navigate from one view to the other using the navbar.
 
+##Live link
+https://andiwoedwin.github.io/Github-API/
 
 ## Installation.
 * Make sure you have all the requirements or running angular apps installed on your machine such as node, npm etc.
