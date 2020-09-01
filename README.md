@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
-## By Joan Nanjala.
+## Andiwo Edwin
 
 ## Project Description
 * This an angular 9 application that allows you to search fot github users by entering the username or by searching the repositories of the github users.
@@ -19,7 +19,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Clone the project from *https://github.com/andiwoedwin/Github.git.*
 * Run npm install to remove .json errors that comes with the project clone.
 * Run ng serve for a dev server.
-* Navigate to *http://localhost:42oo/.*T he app will automatically reload if you change any of the source files.
+* Navigate to *http://localhost:4200/.*T he app will automatically reload if you change any of the source files.
 
 ## Technologies used.
 * Angular JS.
@@ -29,7 +29,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Copyright and License Information.
 *MIT*
- Copyright (c) 2020 *Joan Nanjala.*
+ Copyright (c) 2020 *Andiwo Edwin.*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
